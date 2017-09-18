@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Ejercicio034
 {
-    class Moto
+    class Moto:VehiculoTerrestre
     {
         #region Atributos
         
-        private Colores color;
+        //private Colores color;
         private short cilindrada;
         #endregion
 

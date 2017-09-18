@@ -8,14 +8,14 @@ namespace Ejercicio034
 {
     enum Colores { Rojo, Blanco, Azul, Gris, Negro };
 
-    class Automovil
+    class Automovil:VehiculoTerrestre
     {
         #region Atributos
-        private short cantidadRuedas;
+        //private short cantidadRuedas;
         private int cantidadPasajeros;
         private short cantidadPuertas;
         private short cantidadMarchas;
-        private Colores color;
+        //private Colores color;
 
 
         #endregion
@@ -28,7 +28,8 @@ namespace Ejercicio034
             this.cantidadMarchas = cantidadMarchas;
             this.cantidadPasajeros = cantidadPasajeros;
         }
-        
+
         #endregion
+
     }
 }

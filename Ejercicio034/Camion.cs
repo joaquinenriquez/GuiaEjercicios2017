@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Ejercicio034
 {
-    class Camion
+    class Camion:VehiculoTerrestre
     {
         #region Atributos
 
-        private short cantidadRuedas;
+        //private short cantidadRuedas;
         private short cantidadPuertas;
-        private Colores color;
+        //private Colores color;
         private short cantidadMarchas;
         private int pesoCarga;
 
