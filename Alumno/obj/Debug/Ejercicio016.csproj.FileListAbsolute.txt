@@ -1,0 +1,6 @@
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Alumno\bin\Debug\Alumno.exe.config
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Alumno\bin\Debug\Alumno.exe
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Alumno\bin\Debug\Alumno.pdb
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Alumno\obj\Debug\Ejercicio016.csproj.CoreCompileInputs.cache
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Alumno\obj\Debug\Alumno.exe
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Alumno\obj\Debug\Alumno.pdb

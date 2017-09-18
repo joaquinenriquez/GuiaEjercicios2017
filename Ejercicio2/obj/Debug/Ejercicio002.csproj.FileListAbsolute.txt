@@ -1,0 +1,6 @@
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio2\obj\Debug\Ejercicio002.csproj.CoreCompileInputs.cache
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio2\obj\Debug\Ejercicio2.pdb

@@ -1,0 +1,7 @@
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio007\obj\Debug\Ejercicio007.csprojResolveAssemblyReference.cache
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio007\obj\Debug\Ejercicio007.csproj.CoreCompileInputs.cache
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio007\bin\Debug\Ejercicio007.exe.config
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio007\bin\Debug\Ejercicio007.exe
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio007\bin\Debug\Ejercicio007.pdb
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio007\obj\Debug\Ejercicio007.exe
+C:\Users\infistioticos\source\repos\GuiaEjercicios2017\Ejercicio007\obj\Debug\Ejercicio007.pdb
