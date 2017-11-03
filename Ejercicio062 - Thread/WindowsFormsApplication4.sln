@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConTimer", "WindowsFormsApplication4\ConTimer.csproj", "{13285F5F-4D33-4BAD-A88F-F1C8C70FEC5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConBucle", "ConBucle\ConBucle.csproj", "{934574A5-6E17-42CF-B288-43056B45653E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConThreads", "ConThreads\ConThreads.csproj", "{68966DA0-8BD0-4628-B3E5-0441C23B29CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13285F5F-4D33-4BAD-A88F-F1C8C70FEC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13285F5F-4D33-4BAD-A88F-F1C8C70FEC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13285F5F-4D33-4BAD-A88F-F1C8C70FEC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13285F5F-4D33-4BAD-A88F-F1C8C70FEC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934574A5-6E17-42CF-B288-43056B45653E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934574A5-6E17-42CF-B288-43056B45653E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934574A5-6E17-42CF-B288-43056B45653E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934574A5-6E17-42CF-B288-43056B45653E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68966DA0-8BD0-4628-B3E5-0441C23B29CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68966DA0-8BD0-4628-B3E5-0441C23B29CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68966DA0-8BD0-4628-B3E5-0441C23B29CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68966DA0-8BD0-4628-B3E5-0441C23B29CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\VisualStudio\WindowsFormsApplication4\ConBucle\bin\Debug\ConBucle.exe.config
+D:\VisualStudio\WindowsFormsApplication4\ConBucle\bin\Debug\ConBucle.exe
+D:\VisualStudio\WindowsFormsApplication4\ConBucle\bin\Debug\ConBucle.pdb
+D:\VisualStudio\WindowsFormsApplication4\ConBucle\obj\Debug\ConBucle.Form1.resources
+D:\VisualStudio\WindowsFormsApplication4\ConBucle\obj\Debug\ConBucle.Properties.Resources.resources
+D:\VisualStudio\WindowsFormsApplication4\ConBucle\obj\Debug\ConBucle.csproj.GenerateResource.Cache
+D:\VisualStudio\WindowsFormsApplication4\ConBucle\obj\Debug\ConBucle.exe
+D:\VisualStudio\WindowsFormsApplication4\ConBucle\obj\Debug\ConBucle.pdb
